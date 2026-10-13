@@ -1,2 +1,2 @@
-# seminar-3-progcalc
+# seminar probleme
 probleme seminar
